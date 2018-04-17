@@ -7,3 +7,5 @@ The architecture is implemented using Python and C languages. The implementation
 
 * The C implementation focuses on resource constraints and portability.
 It comprises a server and client entities. It provides portability files, that can be used to port the client/server entity to any device and/or OS.
+
+You can read more about the project [here](https://sunithan29.github.io/hyde/blog/iot-post/)
